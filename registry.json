@@ -1,0 +1,19 @@
+{
+  "extensions": [
+    {
+      "id": "hdls",
+      "name": "HDL Simulator",
+      "description": "Write Verilog / SystemVerilog, compile and simulate with Icarus Verilog, inspect waveforms in a built-in viewer, and compile + program FPGAs with Intel Quartus. Windows only.",
+      "version": "0.1.0",
+      "author": "CodeLM",
+      "triggers": [
+        ".v",
+        ".sv"
+      ],
+      "platform": "",
+      "url": "https://github.com/NexusPrism/cl-9824uh/releases/download/hdls-v0.1.0/hdls-0.1.0.zip",
+      "sha256": "3a754869630dd05dd578c01b3bf615cce29288e01ead56043af4366a8f2696f6",
+      "size": 35766
+    }
+  ]
+}
